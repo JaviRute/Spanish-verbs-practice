@@ -2,6 +2,8 @@
 
 Shows you a random verb in a random tense, you have to write the correct verb with the right ending in Spanish.
 
+This is a GUI app running Python code and using the Tkinter module.
+
 Attached is a word file with the main Spanish tenses and a quick explanation on how to construct their regular forms.
 
 The app will take a random Spanish verb (bailar, cantar, aprender, etc) and will ask you to form it in a specific tense (preterite, present, simple future, etc) in a specific person ('I' form, 'we' form, etc).
