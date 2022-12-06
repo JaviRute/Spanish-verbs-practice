@@ -1,8 +1,6 @@
-# Spanish-verbs-practice
+# Spanish Verbs Practice
 
-Shows you a random verb in a random tense, you have to write the correct verb with the right ending in Spanish.
-
-This is a GUI app running Python code and using the Tkinter module.
+### GUI app running Python code and using the Tkinter module.
 
 Attached is a word file with the main Spanish tenses and a quick explanation on how to construct their regular forms.
 
@@ -17,3 +15,5 @@ If you can't get the right answer, the app will show you after three incorrect a
 Event binders have been included in order to speed the process: you can press the Enter key for the 'Check' button and the Enter key for the 'Play' button.
 
 Enjoy!
+
+![Spanish Verbs Practice](spanish2.jpg)
